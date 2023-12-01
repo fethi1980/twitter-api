@@ -90,7 +90,7 @@
 					</from>
 					<to>
 						<image>
-							hub.docker.com/repository/docker/fh1304/devops-repo
+							registry.hub.docker.com/fh1304/devops-repo
 						</image>
 					</to>
 					<container>
